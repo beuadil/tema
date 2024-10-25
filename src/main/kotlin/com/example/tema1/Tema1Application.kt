@@ -9,4 +9,8 @@ class Tema1Application
 fun main(args: Array<String>) {
     runApplication<Tema1Application>(*args)
 }
+
 sagollar
+
+salamlar
+
